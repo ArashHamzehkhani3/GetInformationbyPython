@@ -8,7 +8,7 @@ def main():
              I can do these:
              1.information of the device:
              2.find ip address:
-             3.find cores of procesoor:
+             3.find cores of processor:
              ''')
         try:
           ch=int(input())
